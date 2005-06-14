@@ -6,11 +6,11 @@ Winndannde {{NUMBEROFARTICLES}}:
 
 <!-- div style="width:85%; padding:10px; background-color:#ffffcc; border:1px solid #ffff66;" -->
 <table width="100%" style="padding:10px; background-color:#ffffcc; border:1px solid #ffff66;" >
-<tr><td>
+<tr><td valign="top">
 
 <font size="4">This subdomain is reserved for the creation of a Wikipedia in the '''Fulfulde''' language.</font> If you speak this language and think it would be cool to have an encyclopedia in Fulfulde then '''you''' can make it. Go ahead. Start working on your Encyclopedia. There are currently {{NUMBEROFARTICLES}} articles in Fulfulde. [http://en.wikipedia.org Check the English Wikipedia for more information].
 
-</td><td>
+</td><td valign="top">
 
 <font size="4">Ce lieu est reservé pour la création d'un "Wikipedia" en langue '''Fulfulde'''.</font>
 Si vous parlez Fulfulde, et si vous pensez qu'il serait cool d'avoir une encyclopédie Fulfulde sur l'internet, '''faites-le'''! Allez ! Modifiez ce texte et commencez à écrire dans l'encyclopédie. 
@@ -18,7 +18,7 @@ Si vous parlez Fulfulde, et si vous pensez qu'il serait cool d'avoir une encyclo
 
 Si vous cherchez l'inspiration, vous verrez quelques livres en pulaar [http://www.aiys.org/aodl/public/access/alma_ebooks/index.php ici].
 
-</td><td>
+</td><td valign="top">
 
 <font size="4">هذا الموقع مختص لكتابة موسوعة حرة "ويكيبيديا" بالفولانية..</font>
 <font size="3">''إذا يعجب الفكرة، فاكتبها!  إضغط عبلى wallifaade وترجم هذا النص إلى الفولانية أو ابدأ أن تكتب مقالات.</font>''

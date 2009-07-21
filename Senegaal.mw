@@ -1,65 +1,33 @@
-{{Infobox Country
-|native_name              = ''République du Sénégal''
-|conventional_long_name   = Republik bu Senegaal
-|common_name              = Senegal
-|image_flag               = Flag of Senegal.svg
-|image_coat               =
-|image_map                = LocationSenegal.png
-|image_map2               = LocationSenegal.svg
-|national_motto           = "Un Peuple, Un But, Une Foi"{{nbsp|2}}<small>([[French language|French]])<br/>"One People, One Goal, One Faith"</small>
-|national_anthem          = ''[[Pincez Tous vos Koras, Frappez les Balafons]]''
-|official_languages       = [[Français]]
-|regional_languages/dialects = [[Diola]], [[Malinké]], [[Fulfulde|Pular]], [[Sérère]], [[Soninké]] et [[Wolof]]
-|capital                  = [[Dakar]]
-|latd=14 |latm=40 |latNS=N |longd=17 |longm=25 |longEW=W
-|largest_city             = [[Dakar]]
-|demonym                  = [[Sénégalais]]
-|government_type          = [[République parlementaire]]
-|leader_title1            = [[Président]]
-|leader_name1             = [[Abdoulaye Wade]]
-|leader_title2            = [[Premier ministre]]
-|leader_name2             = [[Cheikh Hadjibou Soumaré]]
-|area_rank                = 87th
-|area_magnitude           = 
-|area                     = 196,723
-|areami²                  = 75,955
-|percent_water            = 2.1
-|population_estimate      = 11,658,000
-|population_estimate_rank = 72nd
-|population_estimate_year = 2005
-|population_census        = 
-|population_census_year   = 
-|population_density       = 59
-|population_densitymi²    = 153
-|population_density_rank  = 137th
-|GDP_PPP                  = $20.504 billion
-|GDP_PPP_rank             = 109th
-|GDP_PPP_year             = 2005
-|GDP_PPP_per_capita       = $1,759
-|GDP_PPP_per_capita_rank  = 149th
-|sovereignty_type         = [[Independence]]
-|established_event1       = from [[France]]
-|established_date1        = [[20 Juin]] [[1960]]
-|HDI                      = {{increase}} 0.460
-|HDI_rank                 = 156th
-|HDI_year                 = 2004
-|HDI_category             = <font color="#e0584e">low</font>
-|currency                 = [[Franc CFA]]
-|currency_code            = XOF
-|country_code             = 
-|time_zone                = [[Temps universel coordonné]]
-|utc_offset               = 
-|time_zone_DST            = 
-|utc_offset_DST           = 
-|cctld                    = [[.sn]]
-|calling_code             = 221
-|footnotes                = 
-|image_map3               = Senegal carte.png
-}}
-
+{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
+|+<big><big>'''République du Sénégal'''</big></big>
+|-
+| style="background:#efefef;" align="center" colspan=2 |
+{| border="0" cellpadding="2" cellspacing="0"
+|-
+| align="center" width="140px" | [[Image:Flag of Senegal.svg|125px]]
+| align="center" width="140px" | [[Image:Coat of arms of Senegal.jpg|85px]]
+|}
+|-
+| align="center" colspan=2 | <small>''National anthem: Pincez Tous vos Koras, Frappez les Balafons''</big>
+|-
+| align=center colspan=2 | [[Image:LocationSenegal.png|250px]]
+|-
+| align=center colspan=2 | [[Image:LocationSenegal.svg|250px]]
+|-
+| '''Official languages'''
+| French
+|-
+| '''Recognised regional languages'''
+| <small>Wolof, Soninke, Seereer-Siin, [[Fulfulde|Pular]], Maninka, Diola,<ref>« La langue officielle de la République du Sénégal est le Français. Les langues nationales sont le Diola, le Malinké, le Pulaar, le Sérère, le Soninké, le Wolof et toute autre langue nationale qui sera codifiée. » − [http://www.gouv.sn/textes/const_detail.cfm?numero=TITREPREMIER Extrait du site officiel du gouvernement sénégalais]</ref>
+|-
+| '''Capital city'''
+| Dakar
+|-
+| align=center colspan=2 | [[Image:Senegal carte.png|250px]]
+|-
+| align=center colspan=2 | Map of Senegal in French
+|}
 '''Senegal''' ko [[leydi]] e [[Afirik]].
-
-* [[Gine]], [[Maali]], [[Moritani]], [[Gine-Biso]]
 
 [[Catégorie:Leydi]]
 [[Catégorie:Afirik]]

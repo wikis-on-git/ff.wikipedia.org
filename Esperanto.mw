@@ -1,19 +1,59 @@
 '''Esperanto''' - ''"lingvo internacia"''
-
+<!--
 {{ infobox language
 | name       = Esperanto
 | image      = [[Fáìlì:Flag of Esperanto.svg|120px|border]]
 | caption    = Flag of Esperanto
 | creator    = [[L.L.Zamenhof]]
 | date       = 1887
-| setting    = [[International auxiliary language]]
-| speakers   = [[Native Esperanto speakers|Native]]: 200 to 1000 (1996, est.); (# fluent: unknown)
+| setting    = [[:en:International auxiliary language|International auxiliary language]]
+| speakers   = [[:en:Native Esperanto speakers|Native]]: 200 to 1000 (1996, est.); (# fluent: unknown)
 | fam2       = [[International auxiliary language]]
 | posteriori = Vocabulary from [[Romance languages|Romance]] and [[Germanic languages]]; phonology from [[Slavic languages]]
 | agency     = [[Akademio de Esperanto]]
 | iso1       = eo
 | iso2       = epo
-| iso3       = epo}}
+| iso3       = epo}} 
+while template infobox language doesn't exist here I replace it with its result as follows. AL 08/10/2010
+
+-->
+<div align=right>
+{| class="infobox" style="width: 22em; text-align: left; font-size: 88%; line-height: 1.5em;" |
+|-
+! colspan="3" style="text-align: center; font-size: 125%; font-weight: bold; color: white; background-color: black;" | Esperanto
+|-
+!  style="vertical-align: middle;" | Flag of Esperanto 
+! colspan="2" | [[File:Flag of Esperanto.svg|120px|border]]
+|-
+!  Created by || [[:eo:L. L. Zamenhof|L. L. Zamenhof]]
+|-
+! Date founded ||colspan="2" | 1887
+|-
+! Setting and usage
+| colspan="2"| [[:en:International auxiliary language|International auxiliary language]]
+|-
+! Total speakers ||colspan="2" |[[:en:Native_Esperanto_speakers|Native]]: 200 to 1000 (1996, est.)
+|-
+! Category (purpose) || colspan="2" style="text-align: left; line-height: 100%;" | [[:en:Constructed_language|constructed language]]
+* [[:en:International_auxiliary_language|International auxiliary language]]
+* Esperanto
+|-
+! Category (sources) || colspan="2" | Vocabulary from [[:en:Romance_languages|Romance]] and [[:en:Germanic_languages|Germanic languages]]; phonology from [[:en:Slavic_languages|Slavic languages]]
+|-
+! [[:en:List_of_language_regulators|Regulated by]] || colspan="2"| [[:eo:Akademio_de_Esperanto|Akademio de Esperanto]]
+|-
+! colspan="3" style="text-align: center; color: white; background-color: black;"| Language codes
+|-
+!  [[:en:ISO_639-1|ISO 639-1]] || colspan="2" | <tt>eo</tt>
+|-
+!  [[:en:ISO_639-2|ISO 639-2]] || colspan="2"| <tt>epo</tt>
+|-
+! [[:en:ISO_639-3|ISO 639-3]] ||colspan="2" | <tt>[http://www.sil.org/iso639-3/documentation.asp?id=epo epo]</tt>
+|-
+!  [[:en:Linguasphere|Linguasphere]] || colspan="2"|
+|-
+! colspan="3" class="boilerplate metadata" style="line-height: 10pt; padding: 0.5em;"| <small><b>Note</b>: This page may contain [[:en:Help:IPA|IPA]] phonetic symbols in [[:en:Unicode|Unicode]].</small></td>
+|}</div>
 
 
 == Esperanto ==

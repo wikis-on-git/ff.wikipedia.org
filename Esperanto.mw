@@ -1,6 +1,6 @@
 '''Esperanto''' - ''"lingvo internacia"''
 
-*[http://eo.wikipedia.org/wiki/Dosiero:Jubilea_simbolo.svg Jubilea simbolo]
+* [http://eo.wikipedia.org/wiki/Dosiero:Jubilea_simbolo.svg Jubilea simbolo]
  
 
 <!--
@@ -27,7 +27,7 @@ while template infobox language doesn't exist here I replace it with its result 
 ! colspan="3" style="text-align: center; font-size: 125%; font-weight: bold; color: white; background-color: black;" | Esperanto
 |-
 !  style="vertical-align: middle;" | Flag of Esperanto 
-! colspan="2" | [[File:Flag of Esperanto.svg|120px|border]]
+! colspan="2" | [[Fichier:Flag of Esperanto.svg|120px|border]]
 |-
 !  Created by || [[:eo:L. L. Zamenhof|L. L. Zamenhof]]
 |-
@@ -56,7 +56,7 @@ while template infobox language doesn't exist here I replace it with its result 
 |-
 !  [[:en:Linguasphere|Linguasphere]] || colspan="2"|
 |-
-! colspan="3" class="boilerplate metadata" style="line-height: 10pt; padding: 0.5em;"| <small><b>Note</b>: This page may contain [[:en:Help:IPA|IPA]] phonetic symbols in [[:en:Unicode|Unicode]].</small></td>
+! colspan="3" class="boilerplate metadata" style="line-height: 10pt; padding: 0.5em;"| <small>'''Note''': This page may contain [[:en:Help:IPA|IPA]] phonetic symbols in [[:en:Unicode|Unicode]].</small></td>
 |}</div>
 
 
@@ -225,6 +225,7 @@ while template infobox language doesn't exist here I replace it with its result 
 [[xal:Эсперантин келн]]
 [[yi:עספעראנטא]]
 [[yo:Esperanto]]
+[[zea:Esperanto]]
 [[zh:世界语]]
 [[zh-classical:世界語]]
 [[zh-min-nan:Sè-kài-gí]]

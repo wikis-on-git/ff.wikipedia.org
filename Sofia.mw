@@ -1,0 +1,60 @@
+{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
+|+<big><big>'''{{PAGENAME}}'''</big></big><br />''София''
+|-
+| style="background:#efefef;" align="center" colspan=2 |
+{| border="0" cellpadding="2" cellspacing="0"
+|-
+| align="center" width="140px" | [[File:BG Sofia coa.svg|100px]]
+| align="center" width="140px" | [[File:Bulgaria CIA map PL.png|right|100px]]
+|}
+|-
+| align=center colspan=2 | [[File:Sofia 555.jpg|250px]]
+|}
+'''Sofia''' (bg. София) - laamorde (kapital) leydi [[Bulgariya]].
+
+== Demography ==
+<timeline>
+ImageSize  = width:600 height:270
+PlotArea   = left:50 right:20 top:25 bottom:30
+TimeAxis   = orientation:vertical
+AlignBars  = late
+Colors =
+  id:linegrey2 value:gray(0.9)
+  id:linegrey value:gray(0.7)
+  id:cobar value:rgb(0.2,0.7,0.8)
+  id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period     = from:0 till:1300000
+ScaleMajor = unit:year increment:200000 start:0 gridcolor:linegrey2
+ScaleMinor = unit:year increment:50000 start:0 gridcolor:linegrey2
+PlotData =
+  color:cobar width:19 align:left
+  bar:1985 from:0 till:1120925
+  bar:1992 from:0 till:1114925
+  bar:1995 from:0 till:1116823
+  bar:2000 from:0 till:1142152
+  bar:2002 from:0 till:1113742
+  bar:2004 from:0 till:1138950
+  bar:2006 from:0 till:1154010
+  bar:2008 from:0 till:1162898
+  bar:2010 from:0 till:1174515
+  bar:2012 color:cobar2 from:0 till:1212935
+
+PlotData=
+  textcolor:black fontsize:S
+  bar:1985 at: 1120925 text: 1.120.925 shift:(-22,5)
+  bar:1992 at: 1114925 text: 1.114.925 shift:(-22,5)
+  bar:1995 at: 1116823 text: 1.116.823 shift:(-22,5)
+  bar:2000 at: 1142152 text: 1.142.152 shift:(-22,5)
+  bar:2002 at: 1113742 text: 1.113.742 shift:(-22,5)
+  bar:2004 at: 1138950 text: 1.138.950 shift:(-22,5)
+  bar:2006 at: 1154010 text: 1.154.010 shift:(-22,5)
+  bar:2008 at: 1162898 text: 1.162.898 shift:(-22,5)
+  bar:2010 at: 1174515 text: 1.174.515 shift:(-22,5)
+  bar:2012 at: 1212935 text: 1.212.935 shift:(-22,5)
+</timeline>
+== Internet ==
+* [http://www.sofia.bg  Sofia] 
+
+{{commons|Sofia}}
+[[Category:Bulgariya]]

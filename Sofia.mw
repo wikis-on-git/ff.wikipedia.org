@@ -4,27 +4,27 @@
 | style="background:#efefef;" align="center" colspan=2 |
 {| border="0" cellpadding="2" cellspacing="0"
 |-
-| align="center" width="140px" | [[File:BG Sofia coa.svg|100px]]
-| align="center" width="140px" | [[File:Bulgaria CIA map PL.png|right|100px]]
+| align="center" width="140px" | [[Fichier:BG Sofia coa.svg|100px]]
+| align="center" width="140px" | [[Fichier:Bulgaria CIA map PL.png|right|100px]]
 |}
 |-
-| align=center colspan=2 | [[File:Sofia 555.jpg|250px]]
+| align=center colspan=2 | [[Fichier:Sofia 555.jpg|250px]]
 |}
 '''Sofia''' (bg. София) - laamorde (kapital) leydi [[Bulgariya]]. Labe no jogii hannde 1.286.383 (2015) yimɓe.
 
 == Demography ==
 <timeline>
-ImageSize  = width:600 height:270
-PlotArea   = left:50 right:20 top:25 bottom:30
-TimeAxis   = orientation:vertical
-AlignBars  = late
+ImageSize = width:600 height:270
+PlotArea = left:50 right:20 top:25 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
 Colors =
   id:linegrey2 value:gray(0.9)
   id:linegrey value:gray(0.7)
   id:cobar value:rgb(0.2,0.7,0.8)
   id:cobar2 value:rgb(0.6,0.9,0.6)
 DateFormat = yyyy
-Period     = from:0 till:1300000
+Period = from:0 till:1300000
 ScaleMajor = unit:year increment:200000 start:0 gridcolor:linegrey2
 ScaleMinor = unit:year increment:50000 start:0 gridcolor:linegrey2
 PlotData =
@@ -54,7 +54,8 @@ PlotData=
   bar:2012 at: 1212935 text: 1.212.935 shift:(-22,5)
 </timeline>
 == Internet ==
-* [http://www.sofia.bg  Sofia] 
+* [http://www.sofia.bg Sofia]
 
 {{commons|Sofia}}
-[[Category:Bulgariya]]
+
+[[Catégorie:Bulgariya]]

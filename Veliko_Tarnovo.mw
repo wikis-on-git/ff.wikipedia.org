@@ -1,0 +1,47 @@
+{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
+|+<big><big>'''{{PAGENAME}}'''</big></big><br />''Велико Търново''
+|-
+| style="background:#efefef;" align="center" colspan=2 |
+{| border="0" cellpadding="2" cellspacing="0"
+|-
+| align="center" width="140px" | [[Fichier:Veliko-Tarnovo-coat-of-arms.svg|100px]]
+| align="center" width="140px" | [[Fichier:Veliko tarnovo flag.png|right|100px]]
+|}
+|-
+| align=center colspan=2 | [[Fichier:Collage of views of VT G.png|250px]]
+|}
+'''Veliko Tarnovo''' (bg. Велико Търново) - laamorde (kapital) leydi [[Bulgariya]](1185-1393). Labe no jogii hannde 73.563 (2015) yimɓe.
+
+== Demography ==
+<timeline>
+ImageSize = width:600 height:270
+PlotArea = left:50 right:20 top:25 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+  id:linegrey2 value:gray(0.9)
+  id:linegrey value:gray(0.7)
+  id:cobar value:rgb(0.2,0.7,0.8)
+  id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:1300000
+ScaleMajor = unit:year increment:200000 start:0 gridcolor:linegrey2
+ScaleMinor = unit:year increment:50000 start:0 gridcolor:linegrey2
+PlotData =
+  color:cobar width:19 align:left
+  bar:1985 from:0 till:69885
+  bar:2000 from:0 till:68545
+  bar:2010 from:0 till:70511
+
+PlotData=
+  textcolor:black fontsize:S
+  bar:1985 at: 69885 text: 69.885 shift:(-22,5)
+  bar:2000 at: 68545 text: 68.545 shift:(-22,5)
+  bar:2010 at: 70511 text: 70.511 shift:(-22,5)
+</timeline>
+== Internet ==
+* [http://www.veliko-tarnovo.bg Veliko Tarnovo]
+
+{{commons|Veliko Tarnovo}}
+
+[[Catégorie:Bulgariya]]

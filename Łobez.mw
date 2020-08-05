@@ -43,6 +43,7 @@ PlotData =
   bar:1970 from:0 till:7355
   bar:1990 from:0 till:10953
   bar:2016 from:0 till:10370
+  bar:2019 from:0 till:10066
 
 PlotData=
   textcolor:black fontsize:S
@@ -61,9 +62,10 @@ PlotData=
   bar:1970 at: 7355 text: 7,4 shift:(0)
   bar:1990 at: 10953 text:10953 shift:(0)
   bar:2016 at: 10370 text:10370 shift:(0)
+  bar:2019 at: 10066 text:10066 shift:(0)
   </timeline>
 
-== Internet ==
+== Internet == 
 * [http://www.lobez.pl Łobez] 
 * [http://www.bip.lobez.pl/ BIP Łobez]
 * [http://www.youtube.com/watch?v=mPWlmToO5FY/ Łobez - You Tube]
